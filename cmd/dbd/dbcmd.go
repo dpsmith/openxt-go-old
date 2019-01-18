@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/apertussolutions/openxt-go/dbd"
+	"github.com/apertussolutions/openxt-go/pkg/dbd"
 )
 
 func die(format string, a ...interface{}) {
